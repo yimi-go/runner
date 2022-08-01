@@ -4,8 +4,7 @@
 # ==============================================================================
 # Build options
 
-ROOT_PACKAGE=github.com/yimi-go/keeper
-
+ROOT_PACKAGE=github.com/yimi-go/runner
 # ==============================================================================
 # Includes
 
